@@ -1,0 +1,46 @@
+To Git, the Paragon of Version Control
+
+O Git, thou art the muse of modern code,
+A guardian where once chaos freely strode.
+In Linus' mind, thy form did first ignite,
+A tool to grant the coder's craft new flight.
+
+RCS, of ancient days, did tread before,
+A noble herald, yet with much to explore.
+Its vision bound in simplicity’s embrace,
+Yet left to time, it could not keep the pace.
+
+Then Subversion came, a marked advance,
+With branches fair and workflows to enhance.
+But centralized, its single source was frail,
+A fortress lost when storms of failure gale.
+
+But thou, O Git, a revolution bold,
+Distributed, thy tale of triumph told.
+Each clone a mirror of the whole design,
+Each coder sovereign, their commit divine.
+
+Through thee, the merge is no more frightful chore;
+Conflicts fade where once they raged before.
+Thy branching swift, thy stash a saving grace,
+Thy history traced with speed and subtle pace.
+
+Linus, thy sire, the Linux lord of lore,
+Who sought a way to make collaboration soar.
+In weeks thou sprang from genius’ fertile land,
+And won the hearts of coders 'cross the sand.
+
+O Git, thy pull and push are seamless art,
+Thy hooks a sign of systems built with heart.
+Through thee, vast legions toil as one, not two,
+Each line preserved, each change a story true.
+
+Subversion fades in the bright glow of thy might,
+And RCS rests as a memory of night.
+But thou, O Git, shall reign in glory vast,
+A beacon shining on a future cast.
+
+So here we sing to Git and Linus bold,
+Whose vision gave us treasures more than gold.
+In thee, we trust, in thee, we iterate,
+O Git, thou art the coder’s ultimate fate.
