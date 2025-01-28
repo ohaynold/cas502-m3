@@ -49,7 +49,7 @@ Thy branching the roots of the yew-tree vast,
 Thy might eternal, thy purpose clear.  
 
 Now sing we the praise of *Torvalds*, the maker,  
-The Lord of Linux, the master of **Git**.  
+The Lord of **Linux**, the master of **Git**.  
 For through his wisdom, the coders are free,  
 And their labors endure, their legacies strong.  
 
