@@ -18,7 +18,7 @@ Its castle of code had but one sacred heart.
 A single failure could bring ruin to all—  
 Its power limited, its fate foretold.  
 
-Then sprang forth **Git**, born of *Linus*’s wisdom,  
+Then sprang forth **Git**, born of *Linus’s* wisdom,  
 A mighty weapon, forged in swift weeks.  
 Distributed it stood, a fortress in fragments,  
 Each clone a kingdom, each coder a king.  
